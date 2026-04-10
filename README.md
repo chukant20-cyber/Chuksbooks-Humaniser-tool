@@ -1,12 +1,18 @@
-# Prepared skill repositories
+# Chuksbooks Humaniser Tool
 
-This bundle contains GitHub-ready repositories for all uploaded skill archives.
+Chuksbooks Humaniser Tool is a private ChatGPT skill for rewriting AI-generated text into more natural human writing. It improves flow, reduces robotic phrasing, preserves meaning, and produces clearer, more authentic text for essays, articles, reports, and business writing.
 
-## Included repositories
+## What it helps with
+- humanising AI-written text
+- rewriting stiff or over-standardised prose
+- improving readability and tone
+- preserving meaning while sounding more natural
+- editing content for clarity, fluency, and originality
 
-- `pass-humanizer-repo` from `skill.zip`
-  - premium forensic analysis and stylistic revision for over-standardized prose. use when chatgpt should analyze writing for machine-like smoothness, sentence-shape repetition, structural regularity, or overly polished cadence, then rewrite it in a more natural human style. especially useful for academic, technical, business, or mixed prose when the user wants fast mode, full mode, minimal intervention, or multi-pass refinement without changing meaning, equations, symbols, or citations.
-- `chuksbooks-humaniser-repo` from `chuksbooks-humaniser.skill.zip`
-  - premium forensic rewriting and humanization for mixed prose. use when chatgpt needs to analyze over-standardized writing, identify machine-like stylistic regularities, and revise text into more natural, human-textured prose while preserving meaning, technical accuracy, citations, and register. supports fast mode by default, full sentence-level analysis on request, and multi-pass residual cleanup.
+## Included files
+- `SKILL.md` — core skill instructions
+- `openai.yaml` — skill metadata
+- `output-templates.md` — output guidance
 
-Each repository includes a top-level README.md and the extracted skill folder.
+## Notes
+This is built to help bypass normal Checkers like zerogpt and quillbot without making your text awkward. And you can apply on other ai tools like Claude and Manus. It can also bypass turnitin to an extent. download, upload, and enjoy

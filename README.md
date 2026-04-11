@@ -1,6 +1,6 @@
 # Chuksbooks Humaniser Tool
 
-Chuksbooks Humaniser Tool is a private ChatGPT skill for rewriting AI-generated text into more natural human writing. It improves flow, reduces robotic phrasing, preserves meaning, and produces clearer, more authentic text for essays, articles, reports, and business writing.
+Chuksbooks Humaniser Tool is a ChatGPT and claude skill for rewriting AI-generated text into more natural human writing. It improves flow, reduces robotic phrasing, preserves meaning, and produces clearer, more authentic text for essays, articles, reports, and business writing.
 
 ## What it helps with
 - humanising AI-written text
